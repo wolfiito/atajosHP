@@ -1,0 +1,187 @@
+Imp||shortcut:cvcc1
+Oni||shortcut:cvcv1
+Uro||shortcut:cvcv2
+Crup||shortcut:cccvc1
+Doxy||shortcut:ccvcc1
+Elfo||shortcut:cvccv1
+Hada||shortcut:ccvcv1
+Moke||shortcut:ccvcv2
+Tebo||shortcut:ccvcv3
+Trol||shortcut:cccvc2
+Yeti||shortcut:ccvcv4
+Arpía||shortcut:cvccvv1
+Fénix||shortcut:ccvcvc1
+Ghoul||shortcut:cccvvc1
+Gnomo||shortcut:cccvcv1
+Grifo||shortcut:cccvcv2
+Hodag||shortcut:ccvcvc2
+Kappa||shortcut:ccvccv1
+Knarl||shortcut:cccvcc1
+Limax||shortcut:ccvcvc3
+Nundu||shortcut:ccvccv2
+Qilin||shortcut:ccvcvc4
+Re'em||shortcut:ccvvc1
+Veela||shortcut:ccvvcv1
+Yumbo||shortcut:ccvccv3
+Zouwu||shortcut:ccvvcv2
+Dragón||shortcut:cccvcvc1
+Duende||shortcut:ccvvccv1
+Dugbog||shortcut:ccvccvc1
+Inferi||shortcut:cvccvcv1
+Jarvey||shortcut:ccvccvc2
+Kelpie||shortcut:ccvccvv1
+Lución||shortcut:ccvcvvc1
+Merrow||shortcut:ccvccvc3
+Nargle||shortcut:ccvcccv1
+Occamy||shortcut:cvccvcc1
+Plimpy||shortcut:cccvccc1
+Ramora||shortcut:ccvcvcv1
+Selkie||shortcut:ccvccvv2
+Shrake||shortcut:ccccvcv1
+Sirena||shortcut:ccvcvcv2
+Tritón||shortcut:cccvcvc2
+Wampus||shortcut:ccvccvc4
+Wyvern||shortcut:ccccvcc1
+Zombie||shortcut:ccvccvv3
+Abraxan||shortcut:cvccvcvc1
+Augurey||shortcut:cvvcvcvc1
+Banshee||shortcut:ccvcccvv1
+Bicrone||shortcut:ccvccvcv1
+Boggart||shortcut:ccvccvcc1
+Bulchin||shortcut:ccvcccvc1
+Caipora||shortcut:ccvvcvcv1
+Cerbero||shortcut:ccvccvcv2
+Erkling||shortcut:cvcccvcc1
+Esfinge||shortcut:cvccvccv1
+Fwooper||shortcut:cccvvcvc1
+Granian||shortcut:cccvcvvc1
+Gytrash||shortcut:cccccvcc1
+Hoo-Hoo||shortcut:ccvvcvv1
+Kneazle||shortcut:cccvvccv1
+Lechuza||shortcut:ccvccvcv3
+Lobalug||shortcut:ccvcvcvc1
+Marmite||shortcut:ccvccvcv4
+Matagot||shortcut:ccvcvcvc2
+Murtlap||shortcut:ccvcccvc2
+Nogtail||shortcut:ccvccvvc1
+Porlock||shortcut:ccvccvcc2
+Quimera||shortcut:ccvvcvcv2
+Valcore||shortcut:ccvccvcv5
+Abarimon||shortcut:cvcvcvcvc1
+Aethonan||shortcut:cvvccvcvc1
+Bicornio||shortcut:ccvcvccvv1
+Billywig||shortcut:ccvccccvc1
+Bundimun||shortcut:ccvccvcvc1
+Centauro||shortcut:ccvccvvcv1
+Clabbert||shortcut:cccvccvcc1
+Cocatriz||shortcut:ccvcvccvc1
+Curupira||shortcut:ccvcvcvcv1
+Dementor||shortcut:ccvcvccvc2
+Diricawl||shortcut:ccvcvcvcc1
+Dukuwaqa||shortcut:ccvcvcvcv2
+Erumpent||shortcut:cvcvccvcc1
+Graphorn||shortcut:cccvccvcc2
+Guiverno||shortcut:ccvvcvccv1
+Gusamoco||shortcut:ccvcvcvcv3
+Gusarajo||shortcut:ccvcvcvcv4
+Gusarapo||shortcut:ccvcvcvcv5
+Horklump||shortcut:ccvcccvcc1
+Mooncalf||shortcut:ccvvccvcc1
+Pogrebin||shortcut:ccvccvcvc2
+Rougarou||shortcut:ccvvcvcvv1
+Streeler||shortcut:ccccvvcvc1
+Thestral||shortcut:cccvcccvc1
+Ashwinder||shortcut:cvcccvccvc1
+Basilisco||shortcut:ccvcvcvccv1
+Demiguise||shortcut:ccvcvcvvcv1
+Diablillo||shortcut:ccvvccvccv1
+Escarbato||shortcut:cvccvccvcv1
+Grindylow||shortcut:cccvccccvc1
+Hinkypunk||shortcut:ccvccccvcc1
+Hipocampo||shortcut:ccvcvcvccv2
+Hipogrifo||shortcut:ccvcvccvcv1
+Jackalope||shortcut:ccvccvcvcv1
+Lebrílope||shortcut:ccvccvcvcv2
+Lethifold||shortcut:ccvccvcvcc1
+Mantícora||shortcut:ccvccvcvcv3
+Micropuff||shortcut:ccvccvcvcc2
+Puffskein||shortcut:ccvccccvvc1
+Pukwudgie||shortcut:ccvccvccvv1
+Quintaped||shortcut:ccvvccvcvc1
+Runespoor||shortcut:ccvcvccvvc1
+Sasquatch||shortcut:ccvccvvccc1
+Unicornio||shortcut:cvcvcvccvv1
+Bowtruckle||shortcut:ccvcccvcccv1
+Cancerbero||shortcut:ccvccvccvcv1
+Chizpurfle||shortcut:cccvccvcccv1
+Chupacabra||shortcut:cccvcvcvccv1
+Clauricorn||shortcut:cccvvcvcvcc1
+Colagancho||shortcut:ccvcvcvcccv1
+Glumbumble||shortcut:cccvccvcccv2
+Leprechaun||shortcut:ccvccvccvvc1
+Licántropo||shortcut:ccvcvcccvcv1
+Majiovillo||shortcut:ccvcvvcvccv1
+Pie grande||shortcut:ccvvccvccv2
+Sasabonsam||shortcut:ccvcvcvccvc1
+Torposoplo||shortcut:ccvccvcvccv1
+Acromántula||shortcut:cvccvcvccvcv1
+Hombre Lobo||shortcut:ccvcccvcvcv1
+Jobberknoll||shortcut:ccvccvcccvcc1
+Thunderbird||shortcut:cccvccvccvcc1
+Duendecillos||shortcut:ccvvccvcvccvc1
+Gorros Rojos||shortcut:ccvccvccvcvc1
+Snallygaster||shortcut:cccvccccvccvc1
+Troll de Rio||shortcut:cccvcccvcvv1
+Caballo Alado||shortcut:ccvcvccvvcvcv1
+Escondedetrás||shortcut:cvccvccvcvccvc1
+Homo amphibia||shortcut:ccvcvvcccvcvv1
+Hébrido Negro||shortcut:ccvccvcvcvccv1
+Nazzle Mumphs||shortcut:ccvcccvcvcccc1
+Paiño gigante||shortcut:ccvvcvcvcvccv1
+Swooping Evil||shortcut:cccvvcvccvcvc1
+Wyvern de Wye||shortcut:ccccvcccvccv1
+Ave del trueno||shortcut:cvcvcvcccvvcv1
+Babosa cornuda||shortcut:ccvcvcvcvccvcv1
+Fénix Irlandés||shortcut:ccvcvcvccvccvc1
+Gente del agua||shortcut:ccvccvcvcvcvv1
+Gusano de tubo||shortcut:ccvcvcvcvcvcv1
+Hada mordedora||shortcut:ccvcvcvccvcvcv1
+Snidget dorado||shortcut:cccvccvccvcvcv1
+Babosa de Fuego||shortcut:ccvcvcvcvcvvcv1
+Calamar gigante||shortcut:ccvcvcvccvcvccv1
+Hocicorto Sueco||shortcut:ccvcvcvccvcvvcv1
+Longhorn Rumano||shortcut:ccvcccvcccvcvcv1
+Trol de montaña||shortcut:cccvccvcvccvcv1
+Troll de Bosque||shortcut:cccvcccvcvccvv1
+Babosa Carnívora||shortcut:ccvcvcvcvccvcvcv1
+Mackled Malaclaw||shortcut:ccvcccvccvcvccvc1
+Mortaja viviente||shortcut:ccvccvcvcvcvvccv1
+Serpiente Marina||shortcut:ccvccvvccvcvcvcv1
+Serpiente de mar||shortcut:ccvccvvccvcvcvc1
+Aquavirius maggot||shortcut:cvcvvcvcvvccvccvc1
+Cangrejo de Fuego||shortcut:ccvcccvcvcvcvvcv1
+Demonios del agua||shortcut:ccvcvcvvccvcvcvv1
+Enanito de jardín||shortcut:cvcvcvcvcvcvccvc1
+Galés Verde Común||shortcut:ccvcvccvccvcvcvc1
+Gusanos aquavirus||shortcut:ccvcvcvcvcvvcvcvc1
+Ridgeback Noruego||shortcut:ccvccvcvcccvcvvcv1
+Serpiente cornuda||shortcut:ccvccvvccvcvccvcv1
+Trol de seguridad||shortcut:cccvccvcvcvcvcvc1
+Colacuerno Húngaro||shortcut:ccvcvcvvccvcvccvcv1
+Vipertooth Peruano||shortcut:ccvcvccvvcccvcvvcv1
+Bola de Fuego Chino||shortcut:ccvcvcvcvvcvccvcv1
+Hocilargo Portugués||shortcut:ccvcvcvccvcvccvcvvc1
+Ironbelly Ucraniano||shortcut:cvcvccvcccvccvcvvcv1
+Puffskein Appaloosa||shortcut:ccvccccvvcvccvcvvcv1
+Salamandra de fuego||shortcut:ccvcvcvcccvcvcvvcv1
+Tritón de doble cola||shortcut:cccvcvccvcvccvcvcv1
+Alizor de Westacottus||shortcut:cvcvcvccvcvccvcvccvc1
+Umgubular Slashkilter||shortcut:cvccvcvcvcccvcccvccvc1
+Monstruo del Río Blanco||shortcut:ccvccccvvcvccvvccvccv1
+Sanguijuela estupefacta||shortcut:ccvccvvcvvcvvccvcvcvccv1
+Caballito de mar volador||shortcut:ccvcvccvcvcvcvccvcvcvc1
+Opaleye de las Antípodas||shortcut:cvcvcvcvcvcvcvccvcvcvc1
+Duendecillo de Cornualles||shortcut:ccvvccvcvccvcvcvccvvccvc1
+Escreguto de Cola Explosiva||shortcut:cvcccvcvcvcvcvcvvcccvcvcv1
+Shelliferous Drogodflikerous||shortcut:cccvccvcvcvvcccvcvcccvcvcvvc1
+Snorkack de cuernos arrugados||shortcut:cccvccvcccvcvvccvcvccvcvcvc1
